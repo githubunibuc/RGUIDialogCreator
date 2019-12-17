@@ -1,0 +1,7 @@
+node_modules
+build/output
+.eslintrc.json
+.jshintrc
+package-lock.json
+.jshintrc
+.DS_Store
